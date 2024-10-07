@@ -18,7 +18,7 @@
 </news>
 
 <downloads> <!-- Sizes are in bytes. The download link has to be a direct download link. -->
-	<client_link></client_link> <!-- The direct download link to the file. -->
+	<client_link>https://drive.google.com/file/d/1hQEE1--0GL_vP7aMyWgAhrZWu9GP6Ixs/view?usp=drive_link</client_link> <!-- The direct download link to the file. -->
 	<client_size>0000</client_size> <!-- The size in bytes of the file. -->
 	<client_name>MapleClient.exe</client_name> <!-- The client's file name. ( Include the .exe ) -->
 
