@@ -22,54 +22,54 @@
 	<client_size>0000</client_size> <!-- The size in bytes of the file. -->
 	<client_name>MapleClient.exe</client_name> <!-- The client's file name. ( Include the .exe ) -->
 
-	<base_link>https://www.dropbox.com/s/zi7oaam63gqearh/Base.wz?dl=1</base_link> <!-- The direct link to the file -->
+	<base_link>https://www.dropbox.com/scl/fi/tynjj01wk4tb4k54ziggv/Base.wz?rlkey=4fyuu8qd4b2hsufo3nuht3bco&st=x3ud4f8r&dl=1</base_link> <!-- The direct link to the file -->
 	<base_size>6540</base_size> <!-- The size in bytes of the file. -->
 
-	<character_link>https://www.dropbox.com/s/2h8e59h566kanwa/Character.wz?dl=1</character_link>
-	<character_size>186792151</character_size>
+	<character_link>https://www.dropbox.com/scl/fi/ui57xosayd2oxf3w9vfwj/Character.wz?rlkey=vhy1vs84r7axubmjm09yyxxlc&st=bfcxyj7g&dl=1</character_link>
+	<character_size>2014706243</character_size>
 
-	<effect_link>https://www.dropbox.com/s/irxtpocq87h1ss2/Effect.wz?dl=1</base_link>
-	<effect_size>63334965</effect_size>
+	<effect_link>https://www.dropbox.com/scl/fi/xuopyzefsv57lzpb591ik/Effect.wz?rlkey=b2cl2gtzues5bxhh0huh7vjfm&st=jksyburm&dl=1</base_link>
+	<effect_size>277438744</effect_size>
 
-	<etc_link>https://www.dropbox.com/s/2ko4uad5bydpo63/Etc.wz?dl=1</etc_link>
-	<etc_size>1201101</etc_size>
+	<etc_link>https://www.dropbox.com/scl/fi/6fx6xulirkufg8uyosj0r/Etc.wz?rlkey=6mwzjyzhg2ihio3amb3ysvz4k&st=j172pfo5&dl=1</etc_link>
+	<etc_size>1803008</etc_size>
 
-	<item_link>https://www.dropbox.com/s/dvoub5hu52238v9/Item.wz?dl=1</item_link>
-	<item_size>18361778</item_size>
+	<item_link>https://www.dropbox.com/scl/fi/or6n4iaa6ppyjyzzy0419/Item.wz?rlkey=ttk0lgaub477ussohiezvpvgi&st=rphduz51&dl=1</item_link>
+	<item_size>474161845</item_size>
 
-	<list_link>https://www.dropbox.com/s/7bfjubjiksc9vpp/List.wz?dl=1</list_link>
+	<list_link>https://www.dropbox.com/scl/fi/2p9ndnsi06x5c7gxk3lgs/List.wz?rlkey=bezv44po4p7h4kbt095xcy054&st=xyq89m93&dl=1</list_link>
 	<list_size>13336</list_size>
 
-	<map_link>https://www.dropbox.com/s/n02zawj3ynq8nce/Map.wz?dl=1</map_link>
-	<map_size>635444895</map_size>
+	<map_link>https://www.dropbox.com/scl/fi/irenohpvcql34cf6y7z5v/Map.wz?rlkey=nx90xyumtu6lf0mnxitrs3lbl&st=m0o9cp4k&dl=1</map_link>
+	<map_size>1442091729</map_size>
 
-	<mob_link>https://www.dropbox.com/s/9cwdodqpfsjwa4k/Mob.wz?dl=1</mob_link>
-	<mob_size>479665103</mob_size>
+	<mob_link>https://www.dropbox.com/scl/fi/dlcjb0xkdtm5fky2hgxjs/Mob.wz?rlkey=1q8fpzdoh2ss34smhj30o1nig&st=x4k5m7il&dl=1</mob_link>
+	<mob_size>1432923627</mob_size>
 
-	<morph_link>https://www.dropbox.com/s/i54huwfo0e9k5zz/Morph.wz?dl=1</morph_link>
+	<morph_link>https://www.dropbox.com/scl/fi/9vu0dlfd9x8zjxfnev9xe/Morph.wz?rlkey=z527b8ysqn9948qzp9e08x8kg&st=qdlslf2z&dl=1</morph_link>
 	<morph_size>6204606</morph_size>
 
-	<npc_link>https://www.dropbox.com/s/48vxli6nxpl46hq/Npc.wz?dl=1</npc_link>
-	<npc_size>51137866</npc_size>
+	<npc_link>https://www.dropbox.com/scl/fi/uka09s3lwtqp92xbra0pd/Npc.wz?rlkey=wqsra4xgjh72zoq3c9rlojbk6&st=hwvy1wwc&dl=1</npc_link>
+	<npc_size>580489730</npc_size>
 
-	<quest_link>https://www.dropbox.com/s/0rpv7weuyyuzqcd/Quest.wz?dl=1</quest_link>
-	<quest_size>5971537</quest_size>
+	<quest_link>https://www.dropbox.com/scl/fi/8rhd57mjp5qcwvqe6qhkb/Quest.wz?rlkey=d9q95ao5vwf1rwa69789doeiu&st=7bfnb2vb&dl=1</quest_link>
+	<quest_size>5993452</quest_size>
 
-	<reactor_link>https://www.dropbox.com/s/6ygr0ph1zc9ktsl/Reactor.wz?dl=1</reactor_link>
-	<reactor_size>54133811</reactor_size>
+	<reactor_link>https://www.dropbox.com/scl/fi/kk24ke6mjiv1ik17a9el7/Reactor.wz?rlkey=ogemy93xy822fad4hh86u0wgr&st=ej7ml3z2&dl=1</reactor_link>
+	<reactor_size>58356511</reactor_size>
 
-	<skill_link>https://www.dropbox.com/s/rsoq7wz4ilj404w/Skill.wz?dl=1</skill_link>
-	<skill_size>76874780</skill_size>
+	<skill_link>https://www.dropbox.com/scl/fi/mhpx9u3cf1fyojwotc6vz/Skill.wz?rlkey=v2ycgjxs3llvqv2rvckpuybhk&st=lk7ub639&dl=1</skill_link>
+	<skill_size>122790093</skill_size>
 
-	<sound_link>https://www.dropbox.com/s/lpmg415a8owtzvh/Sound.wz?dl=1</sound_link>
-	<sound_size>363261964</sound_size>
+	<sound_link>https://www.dropbox.com/scl/fi/c9qejubo3x407nnrifv76/Sound.wz?rlkey=1mgmm9iabrm3chyzacnl23oto&st=yfzmmdaz&dl=1</sound_link>
+	<sound_size>631525505</sound_size>
 
-	<string_link>https://www.dropbox.com/s/mnjpuwomnul05da/String.wz?dl=1</string_link>
-	<string_size>3251564</string_size>
+	<string_link>https://www.dropbox.com/scl/fi/f24sawt2ku7ybqn7hkp72/String.wz?rlkey=qfl1ufwn7qknlr18afl5lqoh0&st=v79vh8eg&dl=1</string_link>
+	<string_size>8155694</string_size>
 
-	<tamingmob_link>https://www.dropbox.com/s/k9v4iwdoz48x8g0/TamingMob.wz?dl=1</tamingmob_link>
+	<tamingmob_link>https://www.dropbox.com/scl/fi/m19p2zptzverqyz69xgin/TamingMob.wz?rlkey=00f4z3w243o2pbrxvdbsyh09j&st=b5boqu13&dl=1</tamingmob_link>
 	<tamingmob_size>797</tamingmob_size>
 
-	<ui_link>https://www.dropbox.com/s/bdxywid1cdw2xxm/UI.wz?dl=1</ui_link>
-	<ui_size>28259933</ui_size>
+	<ui_link>https://www.dropbox.com/scl/fi/c04fvz8uj29ll90nhntoj/Ui.wz?rlkey=d0p82p0r7i4k7mtuafvbekv6s&st=5x0gvlcw&dl=1</ui_link>
+	<ui_size>34847238</ui_size>
 </downloads>
